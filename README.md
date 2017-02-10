@@ -1,5 +1,5 @@
 # World-bank-Indicators
-Comaprative analysis of world bank indicators of one countries
+Comaprative analysis of world bank indicators 
 This Study focuses on comparing the Food production Index, Total Reserves and Arms Imports of Spain with Germany, Morocco and Italy from 2004 to 2014.
 INTRODUCTION
 Food Production Index covers the food crops that are considered edible and that contains nutrients. Coffee and tea are excluded because, although edible, they have no nutritive value. FPI varies from region to region as it depends upon the climate, soil and water availability.
